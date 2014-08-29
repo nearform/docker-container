@@ -20,8 +20,9 @@
   "main": "lib/container",
   "dependencies": {
     "bunyan": "~1.0.0",
+    "dockerode": "~2.0.3",
     "fs-extra": "~0.11.0",
-    "dockerode": "~2.0.3"
+    "nscale-util": "^0.1.0"
   },
   "repository": {
     "type": "git",
