@@ -1,0 +1,31 @@
+{
+  "name": "docker-container",
+  "description": "nscale standard docker container",
+  "keywords": [
+    "nearForm",
+    "nscale",
+    "deployer",
+    "docker",
+    "container"
+  ],
+  "version": "0.0.1",
+  "license": "Artistic License 2.0",
+  "author": "Peter Elger (http://nearform.com/)",
+  "contributors": [
+    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)"
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "main": "lib/container",
+  "dependencies": {
+    "bunyan": "~1.0.0",
+    "fs-extra": "~0.11.0",
+    "dockerode": "~2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nearform/docker-container.git"
+  },
+  "devDependencies": {}
+}
