@@ -8,7 +8,7 @@
     "docker",
     "container"
   ],
-  "version": "0.1.6",
+  "version": "0.1.7",
   "license": "Artistic License 2.0",
   "author": "Peter Elger (http://nearform.com/)",
   "engines": {
@@ -19,7 +19,7 @@
     "bunyan": "~1.0.0",
     "dockerode": "~2.0.3",
     "fs-extra": "~0.11.0",
-    "nscale-util": "^0.1.4",
+    "nscale-util": "^0.1.5",
     "portscanner": "^1.0.0",
     "underscore": "^1.7.0"
   },
