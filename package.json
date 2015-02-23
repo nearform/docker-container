@@ -25,6 +25,7 @@
     "dockerode": "~2.0.3",
     "exit-error": "^1.0.0",
     "fs-extra": "~0.11.0",
+    "lodash": "^3.3.0",
     "nscale-target-ip": "^0.1.0",
     "nscale-util": "~0.11.0",
     "portscanner": "^1.0.0",
