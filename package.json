@@ -8,7 +8,7 @@
     "docker",
     "container"
   ],
-  "version": "0.14.7",
+  "version": "0.14.9",
   "license": "Artistic License 2.0",
   "author": "Peter Elger (http://nearform.com/)",
   "contributors": [
@@ -29,7 +29,7 @@
     "nscale-target-ip": "^0.1.0",
     "nscale-util": "~0.11.2",
     "portscanner": "^1.0.0",
-    "remote-forwarder": "^1.1.0",
+    "remote-forwarder": "^1.6.0",
     "request": "^2.51.0",
     "spawn-command": "0.0.2-1",
     "underscore": "^1.7.0",
