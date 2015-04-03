@@ -8,7 +8,7 @@
     "docker",
     "container"
   ],
-  "version": "0.15.2",
+  "version": "0.16.0",
   "license": "Artistic License 2.0",
   "author": "Peter Elger (http://nearform.com/)",
   "contributors": [
@@ -27,7 +27,7 @@
     "fs-extra": "~0.11.0",
     "lodash": "^3.3.0",
     "nscale-target-ip": "^0.1.0",
-    "nscale-util": "~0.11.2",
+    "nscale-util": "~0.12.0",
     "portscanner": "^1.0.0",
     "remote-forwarder": "^1.6.0",
     "request": "^2.51.0",
