@@ -24,6 +24,7 @@
     "docker-registry-server": "^2.1.0",
     "dockerode": "~2.0.3",
     "exit-error": "^1.0.0",
+    "fs-access": "^1.0.0",
     "fs-extra": "~0.11.0",
     "lodash": "^3.3.0",
     "nscale-target-ip": "^0.1.0",
